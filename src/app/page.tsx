@@ -29,7 +29,7 @@ export default function Home() {
           </div>
         </div>
 
-        <div className="md:w-9/12 flex flex-col md:flex-row w-full h-full px-12 md:px-0 md:py-16 md:h-[600px]">
+        <div className="pb-24 md:w-9/12 flex flex-col md:flex-row w-full h-full px-12 md:px-0 md:py-16 md:h-[600px]">
           <div className="md:w-7/12 flex flex-col gap-3 items-center justify-center h-full w-full">
             <h1 className="text-5xl text-center font-bold tracking-[2px]">
               Amu,Master Drawings
@@ -37,7 +37,7 @@ export default function Home() {
 
             <Button
               animation="pulse"
-              className="w-6/12"
+              className="w-11/12 md:w-6/12"
               color="white"
               tone="transparent"
               shadow="sm"
