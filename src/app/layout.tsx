@@ -1,7 +1,7 @@
 import './globals.css'
-import { Inter } from 'next/font/google'
+import { Marcellus } from 'next/font/google'
 
-const inter = Inter({ subsets: ['latin'] })
+const inter = Marcellus({ weight: "400", subsets: ['latin'] })
 
 export const metadata = {
   title: 'Create Next App',
