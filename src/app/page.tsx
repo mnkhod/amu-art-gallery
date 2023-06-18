@@ -13,7 +13,7 @@ export default function Home() {
 
         <div className="flex justify-center py-16 border border-2 border-l-0 border-r-0 w-full">
           <div className="w-9/12 flex flex-col gap-2 md:gap-0 md:flex-row items-center justify-between">
-            <h1 className="text-2xl md:text-3xl">Amu's Art Gallery</h1>
+            <h1 className="text-2xl md:text-3xl">{"Amu's Art Gallery"}</h1>
             <ul className="flex gap-2 md:gap-6 items-center">
               <li>
                 <p className="text-sm md:text-lg">Buy Now</p>
